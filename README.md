@@ -1,5 +1,5 @@
 # ICC-BiFormer
-There are three folders. 
+There are 4 folders. 
 
 Models are the code of ICC-BiFormer and other models to compare with.
 
@@ -9,3 +9,4 @@ real_streaks are the real streaks cropping from ZTF data and after processing. I
 
 example_data_train represents a small subset of our training data. The original data’s ZIP archive is 20GB, which expands to 60GB after unzipping. We have only uploaded a small portion for the purpose of model deployment and format inspection. The link for total data is：https://pan.baidu.com/s/1mN4JSYMhDgN-WgAlUs19OA?pwd=ICCB and the password is ICCB /
 
+Our work has been published:https://doi.org/10.3390/electronics13112092 
